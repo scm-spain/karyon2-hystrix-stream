@@ -29,7 +29,7 @@ See AppServerForTesting for further details and a functional implementation.
 Add dependency as follows:
 
 ```
-    compile 'com.scmspain.karyon:karyon-hystrix-stream:0.1.0'
+    compile 'com.scmspain.karyon:karyon2-hystrix-stream:0.1.0'
 ```
 
 Please look at the badge from maven central to know which is the latest version for this module.
